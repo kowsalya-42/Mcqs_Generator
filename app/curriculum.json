@@ -1,0 +1,55 @@
+{
+  "Quantitative Math": {
+    "Problem Solving": [
+      "Numbers and Operations",
+      "Algebra",
+      "Geometry",
+      "Problem Solving",
+      "Probability and Statistics",
+      "Data Analysis"
+    ],
+    "Algebra": [
+      "Algebraic Word Problems",
+      "Interpreting Variables",
+      "Polynomial Expressions (FOIL/Factoring)",
+      "Rational Expressions",
+      "Exponential Expressions (Product rule, negative exponents)",
+      "Quadratic Equations & Functions (Finding roots/solutions, graphing)",
+      "Functions Operations"
+    ],
+    "Geometry and Measurement": [
+      "Area & Volume",
+      "Perimeter",
+      "Lines, Angles, & Triangles",
+      "Right Triangles & Trigonometry",
+      "Circles (Area, circumference)",
+      "Coordinate Geometry",
+      "Slope",
+      "Transformations (Dilating a shape)",
+      "Parallel & Perpendicular Lines",
+      "Solid Figures (Volume of Cubes)"
+    ],
+    "Numbers and Operations": [
+      "Basic Number Theory",
+      "Prime & Composite Numbers",
+      "Rational Numbers",
+      "Order of Operations",
+      "Estimation",
+      "Fractions, Decimals, & Percents",
+      "Sequences & Series",
+      "Computation with Whole Numbers",
+      "Operations with Negatives"
+    ],
+    "Data Analysis & Probability": [
+      "Interpretation of Tables & Graphs",
+      "Trends & Inferences",
+      "Probability (Basic, Compound Events)",
+      "Mean, Median, Mode, & Range",
+      "Weighted Averages",
+      "Counting & Arrangement Problems"
+    ],
+    "Reasoning": [
+      "Word Problems"
+    ]
+  }
+}
